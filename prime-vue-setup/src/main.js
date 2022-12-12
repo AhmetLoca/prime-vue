@@ -6,7 +6,8 @@ import Button from "primevue/button";
 import Toast from "primevue/toast";
 import ToastService from "primevue/toastservice";
 
-import "primevue/resources/themes/lara-light-indigo/theme.css";
+import "./assets/app.css";
+import "primevue/resources/themes/bootstrap4-dark-blue/theme.css";
 import "primevue/resources/primevue.min.css";
 import "primeicons/primeicons.css";
 
